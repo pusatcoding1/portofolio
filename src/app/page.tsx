@@ -132,8 +132,8 @@ export default function Portfolio() {
           <p>Kami menghadirkan solusi digital modern melalui pengembangan website, desain kreatif, dan teknologi untuk mendukung kebutuhan bisnis serta membangun identitas digital yang profesional.</p>
           <div className="social-media">
             <a href="https://github.com/pusatcoding1" target="_blank" rel="noopener noreferrer"><i className='bx bxl-github'></i></a>
-            <a href="#" target="_blank" rel="noopener noreferrer"><i className='bx bxl-instagram-alt'></i></a>
-            <a href="#" target="_blank" rel="noopener noreferrer"><i className='bx bxl-tiktok'></i></a>
+            <a href="https://www.instagram.com/pusatcoding?igsh=MWwxb3F6MjVhOXNjMQ==" target="_blank" rel="noopener noreferrer"><i className='bx bxl-instagram-alt'></i></a>
+            <a href="tiktok.com/@pusat.coding" target="_blank" rel="noopener noreferrer"><i className='bx bxl-tiktok'></i></a>
           </div>
           <a href="#portfolio" className="btn">Proyek Kami</a>
         </div>
